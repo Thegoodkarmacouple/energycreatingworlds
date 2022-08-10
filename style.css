@@ -23,3 +23,16 @@ p {
     text-align:center;
 }
 
+div {
+    display:-moz-inline-stack;
+    margin-top: 3%;
+    margin: 5%;
+    text-align:left;
+}
+
+span {
+    display:inline-block;
+    margin: 2%;
+    margin-top:2%;
+}
+
